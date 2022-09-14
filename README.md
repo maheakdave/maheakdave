@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maheakdave
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning CS 
-- 💞️ I’m looking to collaborate on Research projects on ml nad AI
+- 💞️ I’m looking to collaborate on Research projects on ml and AI
 - 📫 How to reach me mail me at maheakdave@gmail.com
 
 <!---
